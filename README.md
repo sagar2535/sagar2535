@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">Aspiring full-stack web developer with a specialization in MERN stack. Strategic thinker, and a team player with an eye for detail. Looking forward to working in an exciting and challenging work environment.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar2535&label=Profile%20views&color=0e75b6&style=flat" alt="sagar2535" /> </p>
+
 - 🌱 I’m currently learning **Typescript and Next.js**
   
 - 💬 Ask me about **HTML, CSS, Javascript, React.js, MongoDB, Express.js, Node.js.**
